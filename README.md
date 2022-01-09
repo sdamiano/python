@@ -3,10 +3,10 @@
 Ejercicio experimental,
 Calcular base de altura nubosa (plafond),
 Fuente fórmulas: http://www.meteorologiafacil.com.ar/foros/index.php?topic=811.0
-IMPORTANTE: Como refiere la fuente, la fórmula se basa en la atmósfera estándar
-es imprecisa y entre las razones se destaca que el descenso de la temperatura
+IMPORTANTE: Como refiere la fuente, la fórmula se basa en la atmósfera estándar,
+es imprecisa y entre las razones, se destaca que el descenso de la temperatura
 no es lineal y que puede haber inversiones de temperatura a baja altura, incluso
-en superficie. Usar con mucha cautela.
+en superficie. < Usar con mucha cautela >.
 Code Python: Sebastián Damiano. 09/01/2022
 
 ----------------------------------------------------------------------------------
