@@ -6,9 +6,13 @@ Fuente tablas SMN: www.youtube.com/watch?v=FdKqiPnqDCg&ab_channel=DtoCapacitacio
 
 Versión funcional.
 Faltan cargar valores de temperatura inferiores a 10 grados y todas las negativas.
-Revisar índices de tablas
-Verificar funcionalidad de rangos de humedad mínimos
-Correción de impresión doble de valores a tabla II
+Completar código (pass y completar if). 
+Eliminar redundancias.
+Ver factibilidad de usar más funciones.
+Revisar índices de tablas.
+Hacer verificación de acceso de datos.
+Verificar funcionalidad de rangos de humedad mínimos.
+Correción de impresión doble de valores a tabla II.
 Sebastián Damiano 09/01/2022 03.45 hs.
 
 
