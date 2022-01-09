@@ -15,9 +15,7 @@ Verificar funcionalidad de rangos de humedad mínimos.
 Correción de impresión doble de valores a tabla II.
 Sebastián Damiano 09/01/2022 03.45 hs.
 
-
-
-
+--------------------------------------------------------------------------------
 
 Psicrómetro con Python. Se procesan valores de tabla provista por CENTREINAR
 organizados en listas por temperatura del aire, desde +10 a +40 °C.
