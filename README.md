@@ -1,4 +1,6 @@
 # python
+
+----------------------------------------------------------------------------------
 Conversión de grados CELSIUS A FAHRENHEIT mediante el llamado de una función.
 Sebastián Damiano. 12/1/2022 23:08 horas.
 ----------------------------------------------------------------------------------
