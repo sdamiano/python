@@ -1,5 +1,16 @@
 # python
 
+Exportar HMTL para ser leído por ZaraRadio
+
+Exportando datos para leer con el software de automatización de radios
+ZaraRadio.
+Éste código es la base para cargar datos de temperatura y humedad
+para ser locutados por el mencionado software.
+Aquí se harcodean los datos para probar que el archivo .html es reconocido
+por el software.
+Ideas, usar Raspberry Pico con sensor de TH y conectar con el Zara para datos locales
+Sebastián Damiano 26/1/2022. 23.43 horas.
+
 ----------------------------------------------------------------------------------
 Conversión de grados CELSIUS A FAHRENHEIT mediante el llamado de una función.
 Sebastián Damiano. 12/1/2022 23:08 horas.
