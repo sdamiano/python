@@ -1,5 +1,5 @@
 """
-0702023-Este código lee un módulo Raspberry Pi Pico que tiene conectado un sensor BME280
+07-02-2023-Este código lee un módulo Raspberry Pi Pico que tiene conectado un sensor BME280
 Se reciben los datos por puerto serial, se agregan a una lista, se exportan
 en datalogger.txt y se muestran en pantalla, cada un minuto.
 Siguendo la tendencia barométrica, se muestran las últimas tres horas en la gráfica
