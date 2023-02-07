@@ -1,3 +1,7 @@
+"""
+07-02-2023
+Este código se carga en el módulo Raspberry Pi Pico que tiene conectado un sensor BME280 y un display Oled SSD1306 mediante I2C(scl=19 y sda=18)
+"""
 from machine import Pin, I2C
 from time import sleep_ms
 import ssd1306
