@@ -1,4 +1,12 @@
-import serial, time # Se importan las librerías serial y time
+"""
+0702023-Este código lee un módulo Raspberry Pi Pico que tiene conectado un sensor BME280
+Se reciben los datos por puerto serial, se agregan a una lista, se exportan
+en datalogger.txt y se muestran en pantalla, cada un minuto.
+Siguendo la tendencia barométrica, se muestran las últimas tres horas en la gráfica
+Y se exporta la gráfica de las últimas tres horas.
+"""
+
+import serial, time # Se importan las librerías serial, time, matplotlib y datetime
 import matplotlib.pyplot as plt
 from datetime import datetime
 
